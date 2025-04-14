@@ -1,0 +1,140 @@
+@model IEnumerable<YazılımProjesi.Models.TF2Item>
+
+@{
+    ViewData["Title"] = "TF2 Market";
+}
+
+<div class="container mt-4">
+    <h2 class="text-warning">TF2 Market</h2>
+    
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card bg-dark text-warning">
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                        <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name">
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text">@item.Description</p>
+                        <p class="card-text">
+                            <strong>Fiyat:</strong> $@item.Price.ToString("N2")<br>
+                            <strong>Stok:</strong> <span id="stock-@item.Id">@item.StockCount</span><br>
+                            <strong>Kalite:</strong> @item.Quality<br>
+                            <strong>Tip:</strong> @item.Type
+                        </p>
+                        @if (item.IsAvailable)
+                        {
+                            <div class="input-group mb-3">
+                                <input type="number" class="form-control bg-dark text-warning" id="quantity-@item.Id" min="1" max="@item.StockCount" value="1">
+                                <button class="btn btn-warning" onclick="addToCart(@item.Id, @item.StockCount)">Sepete Ekle</button>
+                            </div>
+                        }
+                        else
+                        {
+                            <button class="btn btn-danger" disabled>Stokta Yok</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function addToCart(itemId, currentStock) {
+            var quantity = parseInt(document.getElementById('quantity-' + itemId).value);
+            
+            if (quantity < 1 || quantity > currentStock) {
+                alert('Geçersiz miktar!');
+                return;
+            }
+
+            $.post('/TF2Market/AddToCart', { itemId: itemId, quantity: quantity })
+                .done(function(response) {
+                    if (response.success) {
+                        // Stok miktarını güncelle
+                        document.getElementById('stock-' + itemId).textContent = response.newStock;
+                        
+                        // Local storage'da stok bilgisini güncelle
+                        var stockKey = 'stock_' + itemId;
+                        localStorage.setItem(stockKey, response.newStock);
+                        
+                        // Sepet sayısını güncelle
+                        updateCartCount();
+                    } else {
+                        alert(response.message);
+                    }
+                })
+                .fail(function() {
+                    alert('Bir hata oluştu!');
+                });
+        }
+
+        // Sayfa yüklendiğinde local storage'dan stok bilgilerini kontrol et
+        $(document).ready(function() {
+            @foreach (var item in Model)
+            {
+                <text>
+                var stockKey = 'stock_@item.Id';
+                var localStock = localStorage.getItem(stockKey);
+                if (localStock !== null) {
+                    document.getElementById('stock-@item.Id').textContent = localStock;
+                }
+                </text>
+            }
+        });
+    </script>
+}
+
+<style>
+    .tf2-background {
+        background-image: url('/images/2fort-background.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        min-height: 100vh;
+        position: relative;
+    }
+
+    .tf2-background::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.7);
+        z-index: 1;
+    }
+
+    .container {
+        position: relative;
+        z-index: 2;
+    }
+
+    .card {
+        background: rgba(255, 255, 255, 0.95);
+        border: none;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+        transition: transform 0.2s;
+    }
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
+
+    .card-img-top {
+        height: 200px;
+        object-fit: contain;
+        padding: 1rem;
+    }
+
+    .alert {
+        position: relative;
+        z-index: 2;
+    }
+</style> 

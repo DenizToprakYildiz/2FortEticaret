@@ -1,0 +1,93 @@
+@model IEnumerable<YazılımProjesi.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Sepetim";
+}
+
+<div class="container mt-4">
+    <h2 class="text-warning">Sepetim</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            Sepetiniz boş.
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr class="text-warning">
+                        <th>Ürün</th>
+                        <th>Fiyat</th>
+                        <th>Adet</th>
+                        <th>Toplam</th>
+                        <th>İşlem</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="text-warning">
+                            <td>
+                                @if (!string.IsNullOrEmpty(item.Item.ImageUrl))
+                                {
+                                    <img src="@item.Item.ImageUrl" alt="@item.Item.Name" style="width: 50px; height: 50px; object-fit: contain;" class="me-2">
+                                }
+                                @item.Item.Name
+                            </td>
+                            <td>$@item.Item.Price.ToString("N2")</td>
+                            <td>@item.Quantity</td>
+                            <td>$@item.TotalPrice.ToString("N2")</td>
+                            <td>
+                                <form asp-action="RemoveFromCart" method="post" style="display: inline;">
+                                    <input type="hidden" name="itemId" value="@item.Item.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm">
+                                        <i class="bi bi-trash"></i>
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr class="text-warning">
+                        <td colspan="3" class="text-end"><strong>Toplam:</strong></td>
+                        <td><strong>$@ViewBag.CartTotal.ToString("N2")</strong></td>
+                        <td>
+                            <form asp-action="Purchase" method="post">
+                                <button type="submit" class="btn btn-warning">
+                                    <i class="bi bi-cart-check"></i> Satın Al
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    }
+
+    <div class="mt-3">
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Alışverişe Devam Et
+        </a>
+    </div>
+</div>
+
+<style>
+    .tf2-background {
+        background-image: url('/images/2fort-background.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        min-height: 100vh;
+        position: relative;
+    }
+
+    .card {
+        background: rgba(255, 255, 255, 0.95);
+        border: none;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    }
+</style> 

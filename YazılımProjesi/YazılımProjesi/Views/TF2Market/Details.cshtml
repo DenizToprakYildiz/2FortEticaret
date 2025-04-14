@@ -1,0 +1,109 @@
+@model YazılımProjesi.Models.TF2Item
+
+@{
+    ViewData["Title"] = "Item Details";
+}
+
+<div class="tf2-background">
+    <div class="container py-5">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1 class="text-white">Ürün Detayları</h1>
+            <a asp-action="Cart" class="btn btn-primary position-relative">
+                <i class="bi bi-cart"></i> Sepet
+                @if (ViewBag.CartItemCount > 0)
+                {
+                    <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                        @ViewBag.CartItemCount
+                    </span>
+                }
+            </a>
+        </div>
+        <div class="card">
+            <div class="row g-0">
+                <div class="col-md-6">
+                    <img src="@Model.ImageUrl" class="img-fluid rounded-start" alt="@Model.Name">
+                </div>
+                <div class="col-md-6">
+                    <div class="card-body">
+                        <h2 class="card-title">@Model.Name</h2>
+                        <p class="card-text">@Model.Description</p>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <strong>Type:</strong> @Model.Type
+                            </li>
+                            <li class="list-group-item">
+                                <strong>Quality:</strong> @Model.Quality
+                            </li>
+                            <li class="list-group-item">
+                                <strong>Price:</strong> $@Model.Price
+                            </li>
+                            <li class="list-group-item">
+                                <strong>Listed Date:</strong> @Model.ListedDate.ToString("dd MMM yyyy")
+                            </li>
+                            <li class="list-group-item">
+                                <strong>Status:</strong> 
+                                @if (Model.IsAvailable)
+                                {
+                                    <span class="badge bg-success">Available</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger">Sold</span>
+                                }
+                            </li>
+                            <li class="list-group-item">
+                                <strong>Stock:</strong>
+                                @if (Model.StockCount > 0)
+                                {
+                                    <span class="badge bg-success">Stokta @Model.StockCount adet</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger">Stokta Yok</span>
+                                }
+                            </li>
+                        </ul>
+                        <div class="mt-4">
+                            @if (Model.StockCount > 0)
+                            {
+                                <form asp-action="AddToCart" method="post" class="d-inline">
+                                    <input type="hidden" name="itemId" value="@Model.Id" />
+                                    <input type="hidden" name="quantity" value="1" />
+                                    <button type="submit" class="btn btn-success btn-lg">Sepete Ekle</button>
+                                </form>
+                            }
+                            <a asp-action="Index" class="btn btn-secondary btn-lg">Geri Dön</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .tf2-background {
+        background-image: url('/images/2fort-background.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        min-height: 100vh;
+        padding: 2rem 0;
+    }
+
+    .card {
+        background: rgba(255, 255, 255, 0.95);
+        border: none;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    }
+
+    .img-fluid {
+        max-height: 500px;
+        object-fit: contain;
+        padding: 2rem;
+    }
+
+    .list-group-item {
+        background: transparent;
+    }
+</style> 

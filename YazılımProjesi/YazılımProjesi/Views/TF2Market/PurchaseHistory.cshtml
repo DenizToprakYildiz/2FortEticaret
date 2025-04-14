@@ -1,0 +1,68 @@
+@model List<YazılımProjesi.Models.PurchaseHistory>
+
+@{
+    ViewData["Title"] = "Satın Alma Geçmişi";
+}
+
+<div class="container mt-4">
+    <h2 class="text-warning mb-4">Satın Alma Geçmişi</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            Henüz satın alma geçmişiniz bulunmuyor.
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-dark table-hover">
+                <thead>
+                    <tr>
+                        <th>Ürün Adı</th>
+                        <th>Fiyat</th>
+                        <th>Miktar</th>
+                        <th>Toplam Fiyat</th>
+                        <th>Tarih</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var purchase in Model)
+                    {
+                        <tr>
+                            <td>@purchase.ItemName</td>
+                            <td>$@purchase.Price.ToString("N2")</td>
+                            <td>@purchase.Quantity</td>
+                            <td>$@purchase.TotalPrice.ToString("N2")</td>
+                            <td>@purchase.PurchaseDate.ToString("dd/MM/yyyy HH:mm")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        // Sayfa yüklendiğinde local storage'dan satın alma geçmişini kontrol et
+        $(document).ready(function() {
+            var purchaseHistory = localStorage.getItem('purchaseHistory');
+            if (purchaseHistory) {
+                var purchases = JSON.parse(purchaseHistory);
+                var tbody = $('table tbody');
+                tbody.empty();
+                
+                purchases.forEach(function(purchase) {
+                    var row = $('<tr>');
+                    row.append($('<td>').text(purchase.itemName));
+                    row.append($('<td>').text('$' + parseFloat(purchase.price).toFixed(2)));
+                    row.append($('<td>').text(purchase.quantity));
+                    row.append($('<td>').text('$' + parseFloat(purchase.totalPrice).toFixed(2)));
+                    row.append($('<td>').text(new Date(purchase.purchaseDate).toLocaleString('tr-TR')));
+                    tbody.append(row);
+                });
+            }
+        });
+    </script>
+} 

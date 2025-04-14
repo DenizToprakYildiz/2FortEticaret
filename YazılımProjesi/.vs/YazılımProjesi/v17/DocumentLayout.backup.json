@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|d:\\yaz\u0131l\u0131m projesi web\\yaz\u0131l\u0131mprojesi\\yaz\u0131l\u0131mprojesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|solutionrelative:yaz\u0131l\u0131mprojesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|d:\\yaz\u0131l\u0131m projesi web\\yaz\u0131l\u0131mprojesi\\yaz\u0131l\u0131mprojesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|solutionrelative:yaz\u0131l\u0131mprojesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|d:\\yaz\u0131l\u0131m projesi web\\yaz\u0131l\u0131mprojesi\\yaz\u0131l\u0131mprojesi\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|solutionrelative:yaz\u0131l\u0131mprojesi\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|d:\\yaz\u0131l\u0131m projesi web\\yaz\u0131l\u0131mprojesi\\yaz\u0131l\u0131mprojesi\\models\\tf2item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|solutionrelative:yaz\u0131l\u0131mprojesi\\models\\tf2item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|d:\\yaz\u0131l\u0131m projesi web\\yaz\u0131l\u0131mprojesi\\yaz\u0131l\u0131mprojesi\\controllers\\tf2marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|solutionrelative:yaz\u0131l\u0131mprojesi\\controllers\\tf2marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|d:\\yaz\u0131l\u0131m projesi web\\yaz\u0131l\u0131mprojesi\\yaz\u0131l\u0131mprojesi\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D62F1A-3951-49C2-BC8B-0A70C8C078E2}|Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi.csproj|solutionrelative:yaz\u0131l\u0131mprojesi\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Yaz\u0131l\u0131mProjesi\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Yaz\u0131l\u0131mProjesi\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T06:35:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TF2Item.cs",
+              "DocumentMoniker": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Models\\TF2Item.cs",
+              "RelativeDocumentMoniker": "Yaz\u0131l\u0131mProjesi\\Models\\TF2Item.cs",
+              "ToolTip": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Models\\TF2Item.cs",
+              "RelativeToolTip": "Yaz\u0131l\u0131mProjesi\\Models\\TF2Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:02:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Yaz\u0131l\u0131mProjesi\\Services\\ItemService.cs",
+              "ToolTip": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Services\\ItemService.cs",
+              "RelativeToolTip": "Yaz\u0131l\u0131mProjesi\\Services\\ItemService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:50:27.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Yaz\u0131l\u0131mProjesi\\Services\\CartService.cs",
+              "ToolTip": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Services\\CartService.cs",
+              "RelativeToolTip": "Yaz\u0131l\u0131mProjesi\\Services\\CartService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:38:23.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TF2MarketController.cs",
+              "DocumentMoniker": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Controllers\\TF2MarketController.cs",
+              "RelativeDocumentMoniker": "Yaz\u0131l\u0131mProjesi\\Controllers\\TF2MarketController.cs",
+              "ToolTip": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Controllers\\TF2MarketController.cs",
+              "RelativeToolTip": "Yaz\u0131l\u0131mProjesi\\Controllers\\TF2MarketController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:45:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Yaz\u0131l\u0131mProjesi\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\yaz\u0131l\u0131m projesi web\\Yaz\u0131l\u0131mProjesi\\Yaz\u0131l\u0131mProjesi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Yaz\u0131l\u0131mProjesi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:45:15.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

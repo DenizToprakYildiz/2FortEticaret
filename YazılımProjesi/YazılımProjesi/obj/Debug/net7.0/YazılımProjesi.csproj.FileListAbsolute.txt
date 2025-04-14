@@ -1,0 +1,172 @@
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\appsettings.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\libman.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.runtime.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.endpoints.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.exe
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.deps.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.runtimeconfig.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.pdb
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.AssemblyReference.cache
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfoInputs.cache
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfo.cs
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cache
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cs
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\bundle\YazılımProjesi.styles.css
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\projectbundle\YazılımProjesi.bundle.scp.css
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.build.YazılımProjesi.props
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.YazılımProjesi.props
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.YazılımProjesi.props
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\Yaz_l_mP.375C31A9.Up2Date
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\refint\YazılımProjesi.dll
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.pdb
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.genruntimeconfig.cache
+C:\Users\Lab1\Music\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\ref\YazılımProjesi.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\appsettings.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\libman.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.endpoints.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.runtime.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.exe
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.deps.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.runtimeconfig.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.pdb
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.AssemblyReference.cache
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfoInputs.cache
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfo.cs
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cache
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cs
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\scopedcss\bundle\YazılımProjesi.styles.css
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\scopedcss\projectbundle\YazılımProjesi.bundle.scp.css
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.build.YazılımProjesi.props
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.YazılımProjesi.props
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.YazılımProjesi.props
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\Yaz_l_mP.375C31A9.Up2Date
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\refint\YazılımProjesi.dll
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.pdb
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.genruntimeconfig.cache
+C:\Users\Lab1\Music\YazılımProjesi - Kopya\YazılımProjesi\obj\Debug\net7.0\ref\YazılımProjesi.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\appsettings.Development.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\appsettings.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\libman.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.runtime.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.endpoints.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.exe
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.deps.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.runtimeconfig.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.pdb
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.AssemblyReference.cache
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfoInputs.cache
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfo.cs
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.CoreCompileInputs.cache
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cs
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cache
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cache
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cs
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\bundle\YazılımProjesi.styles.css
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\projectbundle\YazılımProjesi.bundle.scp.css
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.development.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.build.YazılımProjesi.props
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.YazılımProjesi.props
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.YazılımProjesi.props
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\Yaz_l_mP.375C31A9.Up2Date
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\refint\YazılımProjesi.dll
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.pdb
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.genruntimeconfig.cache
+D:\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\ref\YazılımProjesi.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\appsettings.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\libman.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.endpoints.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.staticwebassets.runtime.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.exe
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.deps.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.runtimeconfig.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\YazılımProjesi.pdb
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.AssemblyReference.cache
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfoInputs.cache
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.AssemblyInfo.cs
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cache
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.RazorAssemblyInfo.cs
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\bundle\YazılımProjesi.styles.css
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\scopedcss\projectbundle\YazılımProjesi.bundle.scp.css
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.YazılımProjesi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.build.YazılımProjesi.props
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.YazılımProjesi.props
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.YazılımProjesi.props
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\Yaz_l_mP.375C31A9.Up2Date
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\refint\YazılımProjesi.dll
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.pdb
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\YazılımProjesi.genruntimeconfig.cache
+C:\Users\Lab1\Music\yazılım projesi web\YazılımProjesi\YazılımProjesi\obj\Debug\net7.0\ref\YazılımProjesi.dll

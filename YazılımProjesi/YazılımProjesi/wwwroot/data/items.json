@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "Australium Rocket Launcher",
+    "Description": "A shiny Australium Rocket Launcher",
+    "Price": 100.00,
+    "StockCount": 44,
+    "Type": 2,
+    "ImageUrl": "/images/Aussie_Original.png",
+    "Quality": "Unique",
+    "ListedDate": "2025-03-24T10:37:29.2625246+03:00",
+    "IsAvailable": true
+  },
+  {
+    "Id": 2,
+    "Name": "Golden Frying Pan",
+    "Description": "The legendary Golden Frying Pan",
+    "Price": 6000.00,
+    "StockCount": 668,
+    "Type": 2,
+    "ImageUrl": "/images/Pan.jpg",
+    "Quality": "Unique",
+    "ListedDate": "2025-03-24T10:37:29.2625713+03:00",
+    "IsAvailable": true
+  },
+  {
+    "Id": 3,
+    "Name": "Grease oil",
+    "Description": "The legendary grease oil",
+    "Price": 320.00,
+    "StockCount": 10,
+    "Type": 3,
+    "ImageUrl": "/images/Gresyagi.jpg",
+    "Quality": "Unique",
+    "ListedDate": "2025-03-24T10:37:29.2625718+03:00",
+    "IsAvailable": true
+  },
+  {
+    "Id": 4,
+    "Name": "FishCake",
+    "Description": "The legendary grease oil",
+    "Price": 320.00,
+    "StockCount": 45,
+    "Type": 3,
+    "ImageUrl": "/images/Fishcake.jpg",
+    "Quality": "Unique",
+    "ListedDate": "2025-03-24T10:37:29.262572+03:00",
+    "IsAvailable": true
+  }
+]
